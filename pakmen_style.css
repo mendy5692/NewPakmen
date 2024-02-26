@@ -1,0 +1,31 @@
+.text{
+    width: 400px;
+    position: relative;
+    left: 140px;
+}
+
+body{
+    width: 400px;
+    position: relative;
+    left: 33%;
+    background-image: url("pakmen_imges/background.jpg");
+    
+}
+.all_text{
+    height: 230px;
+    background-image: url("pakmen_imges/beckground_text.jpg");
+    border-radius: 15px;
+    padding: 15px;
+    border-color: brown;
+    border-style:solid;
+    border-width: 5px;
+}
+button{
+    position: relative;
+    left: 39%;
+    color: white;
+    background-color: red;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 45px;
+}
